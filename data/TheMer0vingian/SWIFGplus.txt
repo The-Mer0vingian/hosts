@@ -1,4 +1,4 @@
-# Title: The-Mer0vingian Instagram & Facebook block list
+# Title: The-Mer0vingian : Instagram / Facebook / G+ / Whatsapp / Snapchat block list
 # (forked from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts)
 #
 # Date: 30 March 2020
