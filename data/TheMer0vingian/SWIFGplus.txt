@@ -4,6 +4,12 @@
 # Date: 30 March 2020
 # ===============================================================
 
+#Google
+0.0.0.0 google.com
+0.0.0.0 google.fr
+0.0.0.0 google.ch
+0.0.0.0 google.co.uk
+0.0.0.0 google.co.jp
 
 
 # Instagram
